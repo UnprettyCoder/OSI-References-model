@@ -25,3 +25,9 @@ this python file only needs "random" module
 Details are written by comments in python file
 
 자세한 내용은 파이썬 파일 내부에 주석처리 되어있습니다.
+
+## 2019.10.04 Update
+
+Physical Layer Modulating method is a little concretized.
+
+물리계층의 역할이 조금 더 구체화 되었습니다.
